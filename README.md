@@ -1,1 +1,1 @@
-# Final_Project_MFC_C-
+# Final_Project_MFC_C++ - The Painter by Yoval Hadad & Yarin Rahamim
